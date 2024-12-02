@@ -1,2 +1,2 @@
-My solutions for Advent of Code.
+My solutions for Advent of Code.\
 Beware! Terrible code ahead!
